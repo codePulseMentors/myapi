@@ -1,0 +1,22 @@
+{
+  "Record": {
+    "ag": {
+      "First": "Arjun",
+      "Last": "gupta",
+      "Mail": "ag",
+      "Password": "1234"
+    },
+    "js": {
+      "First": "jatin",
+      "Last": "saini",
+      "Mail": "js",
+      "Password": ""
+    },
+    "navi": {
+      "First": "Navender",
+      "Last": "Singh",
+      "Mail": "navi",
+      "Password": "7675"
+    }
+  }
+}
